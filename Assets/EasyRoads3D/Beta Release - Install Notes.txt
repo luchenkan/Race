@@ -1,0 +1,60 @@
+v3.1.b2 : 27-03-2018
+
+New:
+
+- Insert Connection: Matching connection prefabs based on road types can now be inserted at any marker position
+
+- Snap Roads: When moving the first or last marker of a road over another road section a blue circle will be displayed when matching connection prefabs exist for the involved roads. Releasing the mouse button will auto insert the connection prefab at this position.
+
+- Support for Vegetation Studio: https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-103389
+
+
+
+Changed:
+
+- The list of available connection prefabs when the first of last marker of a road is selected has been removed from the selected roads Inspector. Instead the list will displayed in the crossings tab (3rd from the left). To list all connection prefabs, click on the terrain.
+
+
+
+Improved:
+
+- Instant X T crossing option in the Inspector of the selected Connection Prefab
+
+- Instant Sidewalks activate / deactivate option in the Inspector of the selected Connection Prefab
+
+- uv3 and uv4 support for custom connection prefabs
+
+- Cancel option when importing OSM / KML road data
+
+- Option to remove existing road objects when importing OSM / KML road data
+
+
+
+Fixed:
+
+- Wrong sidewalk caps on bended T crossings when sidewalks on connected roads are disabled
+
+- Interfering connection rectangle on the first connection prefab index when the marker of the attached road is selected
+
+- OSM import road type related ArgumentOutOfRangeException
+
+- Side objects not updating after sidewalk changes
+
+- Side objects snapping to (0,0,0) when the road length is smaller then half the default distance between side object instances
+
+
+
+
+Forum: http://forum.unity3d.com/threads/easyroads3d-v3-the-upcoming-new-road-system.229327/
+
+
+IMPORTANT: Please always backup your project before importing updates
+
+
+Install Notes:
+
+To install this update in an existing EasyRoads3D project it is recommended to follow the next steps:
+
+1. Open a new scene if there is an EasyRoads3D Road Network object present in the currently open scene
+2. Simply import package updates over the existing install without first removing the previous package
+3. Open your scene

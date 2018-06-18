@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: f7ea3457ed2f9174ba94dbbb712c6519
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AlfaBody
+    100004: AlfaChro
+    100006: AlfaDash
+    100008: AlfaGlas
+    100010: AlfaGril
+    100012: AlfaHood
+    100014: AlfaInte
+    100016: AlfaLeHo
+    100018: AlfaLiP1
+    100020: AlfaLiP2
+    100022: AlfaLogo
+    100024: AlfaRiHo
+    100026: AlfaTir1
+    100028: AlfaTir2
+    100030: AlfaWind
+    100032: FORDMAIN
+    100034: W1
+    100036: W2
+    100038: W3
+    100040: W4
+    400000: //RootNode
+    400002: AlfaBody
+    400004: AlfaChro
+    400006: AlfaDash
+    400008: AlfaGlas
+    400010: AlfaGril
+    400012: AlfaHood
+    400014: AlfaInte
+    400016: AlfaLeHo
+    400018: AlfaLiP1
+    400020: AlfaLiP2
+    400022: AlfaLogo
+    400024: AlfaRiHo
+    400026: AlfaTir1
+    400028: AlfaTir2
+    400030: AlfaWind
+    400032: FORDMAIN
+    400034: W1
+    400036: W2
+    400038: W3
+    400040: W4
+    2300000: AlfaBody
+    2300002: AlfaChro
+    2300004: AlfaDash
+    2300006: AlfaGlas
+    2300008: AlfaGril
+    2300010: AlfaHood
+    2300012: AlfaInte
+    2300014: AlfaLeHo
+    2300016: AlfaLiP1
+    2300018: AlfaLiP2
+    2300020: AlfaLogo
+    2300022: AlfaRiHo
+    2300024: AlfaTir1
+    2300026: AlfaTir2
+    2300028: AlfaWind
+    2300030: FORDMAIN
+    2300032: W1
+    2300034: W2
+    2300036: W3
+    2300038: W4
+    3300000: AlfaBody
+    3300002: AlfaChro
+    3300004: AlfaDash
+    3300006: AlfaGlas
+    3300008: AlfaGril
+    3300010: AlfaHood
+    3300012: AlfaInte
+    3300014: AlfaLeHo
+    3300016: AlfaLiP1
+    3300018: AlfaLiP2
+    3300020: AlfaLogo
+    3300022: AlfaRiHo
+    3300024: AlfaTir1
+    3300026: AlfaTir2
+    3300028: AlfaWind
+    3300030: FORDMAIN
+    3300032: W1
+    3300034: W2
+    3300036: W3
+    3300038: W4
+    4300000: AlfaLiP1
+    4300002: AlfaChro
+    4300004: AlfaDash
+    4300006: AlfaGlas
+    4300008: AlfaGril
+    4300010: AlfaHood
+    4300012: AlfaInte
+    4300014: AlfaLeHo
+    4300016: AlfaBody
+    4300018: AlfaLiP2
+    4300020: AlfaLogo
+    4300022: AlfaRiHo
+    4300024: AlfaTir1
+    4300026: AlfaTir2
+    4300028: AlfaWind
+    4300030: FORDMAIN
+    4300032: W1
+    4300034: W2
+    4300036: W3
+    4300038: W4
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0005
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
